@@ -47,6 +47,7 @@ plugins:
 header_pages:
  - chinese-novels.md
  - japanese-novels.md
+ - korean-novels.md
  - request.md
  - contact.md
  - search.md

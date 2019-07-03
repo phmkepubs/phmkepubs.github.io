@@ -6,14 +6,14 @@ sitemap:
 
 {% for post in paginator.posts %}
   <div class="post">
-		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
-		<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     {{ post.content | truncatewords:75 }}<br>
   </div>
 {% endfor %}
 
 <!-- Pagination Links -->
-<div class="pagination">
+<div class="pagination" style="display: flex; flex_direction: row; justify-content: space-between;">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
