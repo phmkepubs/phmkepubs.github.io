@@ -16,3 +16,5 @@ fields:
   name: permalink
   label: permalink
   description: "../{url}"
+pages:
+- test-me.md
