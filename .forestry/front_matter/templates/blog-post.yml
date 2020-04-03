@@ -19,3 +19,4 @@ fields:
   default: "/update/:title"
 pages:
 - _posts/Test/test.md
+- test-page.md
