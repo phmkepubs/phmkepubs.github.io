@@ -17,5 +17,3 @@ fields:
   name: permalink
   label: permalink
   default: "/update/:title"
-pages:
-- _posts/Test/test.md
