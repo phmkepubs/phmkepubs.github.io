@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Japanese Novels
-date:   2018-05-11 21:38:10 +1000
+date:   2020-04-03 09:00:00 +1000
 comments: false
 ---
 
