@@ -6,11 +6,11 @@ permalink: "../everyone-else-is-a-returnee"
 published: false
 
 ---
-<p style="text-align: center;"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" height="300"></p>
+<p style="text-align: center;"><img src="/images/everyone-else-is-a-returnee-cover.jpg" height="300"></p>
 
 <b>Associated Names:</b> EER, 나 빼고 다 귀환자
 
-<b>Author:</b> Toika (Toy Car \| 토이카)
+<b>Author:</b> Toika (Toy Car | 토이카)
 
 <b>Translator:</b> <a href="https://kobatochan.com/korean-novels/everyone-else-is-a-returnee/" target="_blank" rel="noopener">KobatoChanDaiSuki</a>
 
@@ -32,6 +32,6 @@ His legend starts after humanity comes back and meets the Great Cataclysm!
 
 <b>ePubs:</b> To download the ePub, click on the title of the novel or the cover.
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9lpwa" target="_blank" rel="noopener">Everyone Else is a Returnee</a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9laaE" target="_blank" rel="noopener">Everyone Else is a Returnee</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9lpwa" target="_blank" rel="noopener"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9laaE" target="_blank" rel="noopener"><img src="/images/everyone-else-is-a-returnee-cover.jpg" height="300"></a></p>
