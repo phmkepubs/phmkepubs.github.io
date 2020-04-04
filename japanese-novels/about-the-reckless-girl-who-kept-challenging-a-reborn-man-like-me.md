@@ -1,10 +1,11 @@
 ---
 layout: page
-title:  About the Reckless Girl Who Kept Challenging a Reborn Man Like Me
-date:   2019-07-03 9:00:00 +1000
-permalink: ../about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me
----
+title: About the Reckless Girl Who Kept Challenging a Reborn Man Like Me
+date: 2019-07-02T23:00:00.000+00:00
+permalink: "../about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me"
+published: false
 
+---
 <p style="text-align: center;"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" height="300"></p>
 
 <b>Associated Names:</b> Tenseisha de Aru Watashi ni Idonde Kuru Mubou de Yubou na Shoujo no Hanashi, 転生者である私に挑んでくる無謀で有望な少女の話, 転生者の私に挑んでくる無謀で有望な少女の話
@@ -21,6 +22,6 @@ This is a story of the struggle of an ordinary guy like me who is a “reincarna
 
 <b>ePubs:</b> To download the ePub, click on the title of the novel or the cover.
 
-<p style="text-align: center;"><a href="http://gestyy.com/w1hPQL" target="_blank" rel="noopener">About the Reckless Girl Who Kept Challenging a Reborn Man Like Me</a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9lpwa" target="_blank" rel="noopener">About the Reckless Girl Who Kept Challenging a Reborn Man Like Me</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w1hPQL" target="_blank" rel="noopener"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9lpwa" target="_blank" rel="noopener"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" height="300"></a></p>
