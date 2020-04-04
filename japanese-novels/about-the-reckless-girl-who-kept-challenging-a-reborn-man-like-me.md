@@ -3,7 +3,6 @@ layout: page
 title: About the Reckless Girl Who Kept Challenging a Reborn Man Like Me
 date: 2019-07-02T23:00:00.000+00:00
 permalink: "../about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me"
-published: false
 
 ---
 <p style="text-align: center;"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" height="300"></p>
