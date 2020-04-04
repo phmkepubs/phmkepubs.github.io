@@ -13,7 +13,9 @@ permalink: "../about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me
 
 <b>Translator:</b> <a href="https://yoraikun.wordpress.com/2017/09/08/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me/" target="_blank" rel="noopener">Yoraikun Translation</a>
 
-<b>Translation Status:</b> 1 Chapter / 1 Chapter
+<b>Translation Status:</b> Completed
+
+<b>ePub Status:</b> Completed
 
 <b>Description:</b> “A prodigy at ten, a genius at fifteen, a common man past twenty.”
 
