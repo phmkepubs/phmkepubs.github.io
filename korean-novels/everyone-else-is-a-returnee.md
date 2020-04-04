@@ -10,7 +10,7 @@ published: false
 
 <b>Associated Names:</b> EER, 나 빼고 다 귀환자
 
-<b>Author:</b> Toika (Toy Car | 토이카)
+<b>Author:</b> Toika (Toy Car \| 토이카)
 
 <b>Translator:</b> <a href="https://kobatochan.com/korean-novels/everyone-else-is-a-returnee/" target="_blank" rel="noopener">KobatoChanDaiSuki</a>
 
