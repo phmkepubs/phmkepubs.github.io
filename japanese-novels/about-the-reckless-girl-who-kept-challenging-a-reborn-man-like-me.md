@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Reckless Girl Who Kept Challenging a Reborn Man Like Me
-date: 2019-07-02T23:00:00.000+00:00
+date: 2020-04-03 09:00:00 +1100
 permalink: "../about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me"
 
 ---
