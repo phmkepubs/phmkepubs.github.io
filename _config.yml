@@ -55,6 +55,6 @@ header_pages:
 disqus:
   shortname: phmkepubs
 
-paginate: 10
+paginate: 5
 
 google_analytics: UA-119578541-1
