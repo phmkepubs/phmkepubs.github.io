@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: page
 title:  Search
 date:   2020-04-03 09:00:00 +1000
 comments: false

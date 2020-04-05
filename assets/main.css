@@ -122,6 +122,16 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
+hr {
+  height: 0;
+  margin-top: -1px;
+  margin-bottom: 24px;
+  padding-top: 24px;
+  border: 1px solid #ccc;
+  border-width: 0 0 1px;
+  clear: both;
+}
+
 /**
  * Wrapper
  */
