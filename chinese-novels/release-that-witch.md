@@ -13,12 +13,20 @@ author: Er Mu (二目)
 
 <b>Translation Status:</b> 1498 / 1498 Chapters (Completed)
 
-<b>ePub Status:</b> 100 / 1498 Chapter
+<b>ePub Status:</b> 200 / 1498 Chapters
 
 <b>Description:</b> Chen Yan travels between worlds, ending up becoming an honorable prince in a medieval fantasy world. Yet this world was not quite as simple as he thought. Witches with magical powers abound, and fearsome wars between churches and kingdoms rage throughout the land.
 
 Roland, a prince regarded as hopeless by his own father and assigned to the worst fief, spends his time developing a poor and backward town into a strong and modern city, while fighting against his siblings for the throne and absolute control over the kingdom. Join Roland as he befriends and allies with witches and, through fighting and even farming, pushes back invaders coming from the realm of evil.
 
+<b>ePubs:</b> To download the ePub, click on the title of the novel or the cover.
+
 <p style="text-align: center;"><a href="http://gestyy.com/w9lAT0" target="_blank" rel="noopener">Release that Witch - Chapters 1 to 100</a></p>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9lAT0" target="_blank" rel="noopener"><img src="https://i.imgur.com/mVpJfIQ.jpg" height="300"></a></p>
+
+<hr>
+
+<p style="text-align: center;"><a href="http://gestyy.com/w9zMR7" target="_blank" rel="noopener">Release that Witch - Chapters 101 to 200</a></p>
+
+<p style="text-align: center;"><a href="http://gestyy.com/w9zMR7" target="_blank" rel="noopener"><img src="https://i.imgur.com/0w1IJKi.jpg" height="300"></a></p>
