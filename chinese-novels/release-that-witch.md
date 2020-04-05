@@ -9,7 +9,7 @@ author: Er Mu (二目)
 
 ---
 
-<b>Translator:</b> <a href="https://yoraikun.wordpress.com/2017/09/08/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me/" target="_blank" rel="noopener">Webnovel</a>
+<b>Translator:</b> <a href="https://www.webnovel.com/book/7931338406001705" target="_blank" rel="noopener">Webnovel</a>
 
 <b>Translation Status:</b> 1498 / 1498 Chapters (Completed)
 
