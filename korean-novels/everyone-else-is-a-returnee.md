@@ -1,15 +1,13 @@
 ---
-layout: page
+layout: novel
 title: Everyone Else is a Returnee
 date: 2020-04-04 09:00:00 +1100
 permalink: "../everyone-else-is-a-returnee"
+cover-image: /images/everyone-else-is-a-returnee-cover.jpg
+associated-names: EER, 나 빼고 다 귀환자
+author: Toika (Toy Car | 토이카)
 
 ---
-<p style="text-align: center;"><img src="/images/everyone-else-is-a-returnee-cover.jpg" height="300"></p>
-
-<b>Associated Names:</b> EER, 나 빼고 다 귀환자
-
-<b>Author:</b> Toika (Toy Car \| 토이카)
 
 <b>Translator:</b> <a href="https://kobatochan.com/korean-novels/everyone-else-is-a-returnee/" target="_blank" rel="noopener">KobatoChanDaiSuki</a>
 

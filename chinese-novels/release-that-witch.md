@@ -1,15 +1,13 @@
 ---
-layout: page
+layout: novel
 title: Release that Witch
 date: 2020-04-04 09:00:00 +1100
 permalink: "../release-that-witch"
+cover-image: /images/release-that-witch-cover.jpg
+associated-names: Buông em phù thủy kia ra, Fàng kāi nàgè nǚwū, RTW, 放开那个女巫, 마녀 사용설명서
+author: Er Mu (二目)
 
 ---
-<p style="text-align: center;"><img src="/images/release-that-witch-cover.jpg" height="300"></p>
-
-<b>Associated Names:</b> Buông em phù thủy kia ra, Fàng kāi nàgè nǚwū, RTW, 放开那个女巫, 마녀 사용설명서
-
-<b>Author:</b> Er Mu (二目)
 
 <b>Translator:</b> <a href="https://yoraikun.wordpress.com/2017/09/08/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me/" target="_blank" rel="noopener">Webnovel</a>
 
