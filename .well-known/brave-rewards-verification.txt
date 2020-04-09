@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: phmkepubs.tk
-Token: 79a3abeee5da960b6c8469bf5196d6b68419bb71e5054cdf0c38d62816bba8d7
