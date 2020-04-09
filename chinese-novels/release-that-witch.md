@@ -13,7 +13,7 @@ author: Er Mu (二目)
 
 <b>Translation Status:</b> 1498 / 1498 Chapters (Completed)
 
-<b>ePub Status:</b> 1000 / 1498 Chapters
+<b>ePub Status:</b> 1100 / 1498 Chapters
 
 <b>Description:</b> Chen Yan travels between worlds, ending up becoming an honorable prince in a medieval fantasy world. Yet this world was not quite as simple as he thought. Witches with magical powers abound, and fearsome wars between churches and kingdoms rage throughout the land.
 
@@ -78,3 +78,9 @@ Roland, a prince regarded as hopeless by his own father and assigned to the wors
 <p style="text-align: center;"><a href="http://gestyy.com/w9n7Yw" target="_blank" rel="noopener">Release that Witch - Chapters 901 to 1000</a></p>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9n7Yw" target="_blank" rel="noopener"><img src="https://i.imgur.com/T2nY5Zs.jpg" height="300"></a></p>
+
+<hr>
+
+<p style="text-align: center;"><a href="http://gestyy.com/w9QUgl" target="_blank" rel="noopener">Release that Witch - Chapters 1001 to 1100</a></p>
+
+<p style="text-align: center;"><a href="http://gestyy.com/w9QUgl" target="_blank" rel="noopener"><img src="https://i.imgur.com/27aysIR.jpg" height="300"></a></p>
