@@ -13,7 +13,7 @@ author: The Plagiarist (Wen Chao Gong | 文抄公)
 
 <b>Translation Status:</b> 1200 / 1200 Chapters (Completed)
 
-<b>ePub Status:</b> 287 / 1498 Chapters
+<b>ePub Status:</b> 391 / 1498 Chapters
 
 <b>Description:</b> What happens when a scientist from a futuristic world reincarnates in a World of Magic and Knights?
 
@@ -30,3 +30,9 @@ A scientist’s goal is to explore the secrets of the universe, and this is exac
 <p style="text-align: center;"><a href="http://gestyy.com/e0ew58" target="_blank" rel="noopener">Warlock of the Magus World - Arc 1 - Transmigration</a></p>
 
 <p style="text-align: center;"><a href="http://gestyy.com/e0ew58" target="_blank" rel="noopener"><img src="https://i.imgur.com/hFguswT.jpg" height="300"></a></p>
+
+<hr/>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0Wrk0" target="_blank" rel="noopener">Warlock of the Magus World - Arc 2 - Twilight Zone</a></p>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0Wrk0" target="_blank" rel="noopener"><img src="https://i.imgur.com/WqdEq77.jpg" height="300"></a></p>
