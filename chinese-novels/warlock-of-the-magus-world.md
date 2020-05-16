@@ -30,16 +30,16 @@ A scientist’s goal is to explore the secrets of the universe, and this is exac
 
 <p style="text-align: center;"><a href="http://gestyy.com/e0ew58" target="_blank" rel="noopener">Warlock of the Magus World - Arc 1 - Transmigration</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/e0ew58" target="_blank" rel="noopener"><img src="https://i.imgur.com/hFguswT.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 1 - Transmigration Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/e0ew58" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/hFguswT.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 1 - Transmigration Cover" height="300"></a></p>
 
 <hr/>
 
 <p style="text-align: center;"><a href="http://gestyy.com/e0Wrk0" target="_blank" rel="noopener">Warlock of the Magus World - Arc 2 - Twilight Zone</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/e0Wrk0" target="_blank" rel="noopener"><img src="https://i.imgur.com/WqdEq77.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 2 - Twilight Zone Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/e0Wrk0" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/WqdEq77.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 2 - Twilight Zone Cover" height="300"></a></p>
 
 <hr/>
 
 <p style="text-align: center;"><a href="http://gestyy.com/e0UrjH" target="_blank" rel="noopener">Warlock of the Magus World - Arc 3 - Morning Star Chronicles</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/e0UrjH" target="_blank" rel="noopener"><img src="https://i.imgur.com/2S8ZCrV.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 3 - Morning Star Chronicles" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/e0UrjH" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/2S8ZCrV.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 3 - Morning Star Chronicles" height="300"></a></p>
