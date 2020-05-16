@@ -3,7 +3,7 @@ layout: novel
 title: Release that Witch
 date: 2020-04-08 22:00:00 +1000
 permalink: "../release-that-witch"
-cover-image: /images/release-that-witch-cover.jpg
+cover-image: /images/release-that-witch-cover
 associated-names: Buông em phù thủy kia ra, Fàng kāi nàgè nǚwū, RTW, 放开那个女巫, 마녀 사용설명서
 author: Er Mu (二目)
 
