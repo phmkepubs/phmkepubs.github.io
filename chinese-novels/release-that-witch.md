@@ -6,6 +6,7 @@ permalink: "../release-that-witch"
 cover-image: /images/release-that-witch-cover.jpg
 associated-names: Buông em phù thủy kia ra, Fàng kāi nàgè nǚwū, RTW, 放开那个女巫, 마녀 사용설명서
 author: Er Mu (二目)
+description: Release that Witch ePub
 
 ---
 
