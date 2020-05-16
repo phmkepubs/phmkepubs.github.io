@@ -3,7 +3,7 @@ layout: novel
 title: About the Reckless Girl Who Kept Challenging a Reborn Man Like Me
 date: 2020-04-03 09:00:00 +1100
 permalink: "../about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me"
-cover-image: /images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover
+cover-image: /images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg
 associated-names: Tenseisha de Aru Watashi ni Idonde Kuru Mubou de Yubou na Shoujo no Hanashi, 転生者である私に挑んでくる無謀で有望な少女の話, 転生者の私に挑んでくる無謀で有望な少女の話
 author: Kohigashi Nora (小東のら)
 

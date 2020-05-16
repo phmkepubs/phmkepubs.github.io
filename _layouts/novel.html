@@ -8,9 +8,7 @@ layout: default
   </header>
 
   <div class="post-content">
-    <p style="text-align: center;">
-      <img srcset="{{ page.cover-image }}.webp, {{ page.cover-image }}.jpg" alt="{{ page.title }} Cover" height="300">
-    </p>
+    <p style="text-align: center;"><img src="{{ page.cover-image }}" height="300"></p>
     <p><b>Associated Names:</b> {{ page.associated-names }}</p>
     <p><b>Author:</b> {{ page.author }}</p>
     {{ content }}
