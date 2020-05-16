@@ -6,6 +6,7 @@ permalink: "../about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me
 cover-image: /images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg
 associated-names: Tenseisha de Aru Watashi ni Idonde Kuru Mubou de Yubou na Shoujo no Hanashi, 転生者である私に挑んでくる無謀で有望な少女の話, 転生者の私に挑んでくる無謀で有望な少女の話
 author: Kohigashi Nora (小東のら)
+description: About the Reckless Girl Who Kept Challenging a Reborn Man Like Me ePub
 
 ---
 
@@ -23,4 +24,4 @@ This is a story of the struggle of an ordinary guy like me who is a “reincarna
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9lpwa" target="_blank" rel="noopener">About the Reckless Girl Who Kept Challenging a Reborn Man Like Me</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9lpwa" target="_blank" rel="noopener"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9lpwa" target="_blank" rel="noopener"><img src="/images/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me-cover.jpg" alt="About the Reckless Girl Who Kept Challenging a Reborn Man Like Me Cover" height="300"></a></p>
