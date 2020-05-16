@@ -6,6 +6,7 @@ permalink: "../warlock-of-the-magus-world"
 cover-image: /images/warlock-of-the-magus-world-cover.jpg
 associated-names: Vu Giới Thuật Sĩ, WMW, Wujie Shushi, 巫界术士
 author: The Plagiarist (Wen Chao Gong | 文抄公)
+description: Warlock of the Magus World ePub
 
 ---
 
