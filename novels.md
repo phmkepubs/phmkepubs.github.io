@@ -3,9 +3,10 @@ layout: page
 title:  Novels
 date:   2020-05-15 09:00:00 +1000
 comments: false
+description: This is an alphabetical list of all the novels that have ePubs on this website, separated into their country of origin.
 
 ---
-This is an alphabetical list of all the novels that have ePubs on this website seperated into their country of origin.
+This is an alphabetical list of all the novels that have ePubs on this website, separated into their country of origin.
 
 ## Chinese
 
