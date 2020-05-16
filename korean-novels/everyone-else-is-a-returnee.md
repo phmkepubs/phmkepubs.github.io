@@ -6,6 +6,7 @@ permalink: "../everyone-else-is-a-returnee"
 cover-image: /images/everyone-else-is-a-returnee-cover.jpg
 associated-names: EER, 나 빼고 다 귀환자
 author: Toika (Toy Car | 토이카)
+description: Everyone Else is a Returnee ePub
 
 ---
 
@@ -31,4 +32,4 @@ His legend starts after humanity comes back and meets the Great Cataclysm!
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9laaE" target="_blank" rel="noopener">Everyone Else is a Returnee</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9laaE" target="_blank" rel="noopener"><img src="/images/everyone-else-is-a-returnee-cover.jpg" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9laaE" target="_blank" rel="noopener"><img src="/images/everyone-else-is-a-returnee-cover.jpg" alt="veryone Else is a Returnee Cover" height="300"></a></p>
