@@ -24,88 +24,88 @@ Roland, a prince regarded as hopeless by his own father and assigned to the wors
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9lAT0" target="_blank" rel="noopener">Release that Witch - Chapters 1 to 100</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9lAT0" target="_blank" rel="noopener"><img src="https://i.imgur.com/mVpJfIQ.jpg" alt="Release that Witch - Chapters 1 to 100 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9lAT0" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/mVpJfIQ.jpg" class="lazyload" alt="Release that Witch - Chapters 1 to 100 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9zMR7" target="_blank" rel="noopener">Release that Witch - Chapters 101 to 200</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9zMR7" target="_blank" rel="noopener"><img src="https://i.imgur.com/0w1IJKi.jpg" alt="Release that Witch - Chapters 101 to 200 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9zMR7" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/0w1IJKi.jpg" class="lazyload" alt="Release that Witch - Chapters 101 to 200 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9z7af" target="_blank" rel="noopener">Release that Witch - Chapters 201 to 300</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9z7af" target="_blank" rel="noopener"><img src="https://i.imgur.com/bPMTkdW.jpg" alt="Release that Witch - Chapters 201 to 300 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9z7af" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/bPMTkdW.jpg" class="lazyload" alt="Release that Witch - Chapters 201 to 300 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9z84n" target="_blank" rel="noopener">Release that Witch - Chapters 301 to 400</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9z84n" target="_blank" rel="noopener"><img src="https://i.imgur.com/ME2AFHx.jpg" alt="Release that Witch - Chapters 301 to 400 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9z84n" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/ME2AFHx.jpg" class="lazyload" alt="Release that Witch - Chapters 301 to 400 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9xgZX" target="_blank" rel="noopener">Release that Witch - Chapters 401 to 500</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9xgZX" target="_blank" rel="noopener"><img src="https://i.imgur.com/dg1nXnA.jpg" alt="Release that Witch - Chapters 401 to 500 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9xgZX" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/dg1nXnA.jpg" class="lazyload" alt="Release that Witch - Chapters 401 to 500 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9cZfE" target="_blank" rel="noopener">Release that Witch - Chapters 501 to 600</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9cZfE" target="_blank" rel="noopener"><img src="https://i.imgur.com/rIgdfqb.jpg" alt="Release that Witch - Chapters 501 to 600 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9cZfE" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/rIgdfqb.jpg" class="lazyload" alt="Release that Witch - Chapters 501 to 600 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9cZce" target="_blank" rel="noopener">Release that Witch - Chapters 601 to 700</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9cZce" target="_blank" rel="noopener"><img src="https://i.imgur.com/dhqy4Rk.jpg" alt="Release that Witch - Chapters 601 to 700 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9cZce" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/dhqy4Rk.jpg" class="lazyload" alt="Release that Witch - Chapters 601 to 700 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9cZEK" target="_blank" rel="noopener">Release that Witch - Chapters 701 to 800</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9cZEK" target="_blank" rel="noopener"><img src="https://i.imgur.com/swfjzFE.jpg" alt="Release that Witch - Chapters 701 to 800 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9cZEK" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/swfjzFE.jpg" class="lazyload" alt="Release that Witch - Chapters 701 to 800 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9bRfH" target="_blank" rel="noopener">Release that Witch - Chapters 801 to 900</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9bRfH" target="_blank" rel="noopener"><img src="https://i.imgur.com/r7MRPhn.jpg" alt="Release that Witch - Chapters 801 to 900 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9bRfH" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/r7MRPhn.jpg" class="lazyload" alt="Release that Witch - Chapters 801 to 900 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9n7Yw" target="_blank" rel="noopener">Release that Witch - Chapters 901 to 1000</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9n7Yw" target="_blank" rel="noopener"><img src="https://i.imgur.com/T2nY5Zs.jpg" alt="Release that Witch - Chapters 901 to 1000 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9n7Yw" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/T2nY5Zs.jpg" class="lazyload" alt="Release that Witch - Chapters 901 to 1000 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9QUgl" target="_blank" rel="noopener">Release that Witch - Chapters 1001 to 1100</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9QUgl" target="_blank" rel="noopener"><img src="https://i.imgur.com/27aysIR.jpg" alt="Release that Witch - Chapters 1001 to 1100 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9QUgl" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/27aysIR.jpg" class="lazyload" alt="Release that Witch - Chapters 1001 to 1100 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9EmzN" target="_blank" rel="noopener">Release that Witch - Chapters 1101 to 1200</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9EmzN" target="_blank" rel="noopener"><img src="https://i.imgur.com/FCaoCNa.jpg" alt="Release that Witch - Chapters 1101 to 1200 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9EmzN" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/FCaoCNa.jpg" class="lazyload" alt="Release that Witch - Chapters 1101 to 1200 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9Tu89" target="_blank" rel="noopener">Release that Witch - Chapters 1201 to 1300</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9Tu89" target="_blank" rel="noopener"><img src="https://i.imgur.com/2LXlF3V.jpg" alt="Release that Witch - Chapters 1201 to 1300 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9Tu89" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/2LXlF3V.jpg" class="lazyload" alt="Release that Witch - Chapters 1201 to 1300 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9IYJy" target="_blank" rel="noopener">Release that Witch - Chapters 1301 to 1400</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9IYJy" target="_blank" rel="noopener"><img src="https://i.imgur.com/CEolEgo.jpg" alt="Release that Witch - Chapters 1301 to 1400 Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9IYJy" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/CEolEgo.jpg" class="lazyload" alt="Release that Witch - Chapters 1301 to 1400 Cover" height="300"></a></p>
 
 <hr>
 
 <p style="text-align: center;"><a href="http://gestyy.com/w9JkvL" target="_blank" rel="noopener">Release that Witch - Chapters 1401 to End</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/w9JkvL" target="_blank" rel="noopener"><img src="https://i.imgur.com/GML8GjF.jpg" alt="Release that Witch - Chapters 1401 to End Cover" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/w9JkvL" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/GML8GjF.jpg" class="lazyload" alt="Release that Witch - Chapters 1401 to End Cover" height="300"></a></p>
