@@ -14,7 +14,7 @@ description: Warlock of the Magus World ePub
 
 <b>Translation Status:</b> 1200 / 1200 Chapters (Completed)
 
-<b>ePub Status:</b> 628 / 1498 Chapters
+<b>ePub Status:</b> 786 / 1498 Chapters
 
 <b>Description:</b> What happens when a scientist from a futuristic world reincarnates in a World of Magic and Knights?
 
@@ -42,4 +42,10 @@ A scientist’s goal is to explore the secrets of the universe, and this is exac
 
 <p style="text-align: center;"><a href="http://gestyy.com/e0UrjH" target="_blank" rel="noopener">Warlock of the Magus World - Arc 3 - Morning Star Chronicles</a></p>
 
-<p style="text-align: center;"><a href="http://gestyy.com/e0UrjH" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/2S8ZCrV.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 3 - Morning Star Chronicles" height="300"></a></p>
+<p style="text-align: center;"><a href="http://gestyy.com/e0UrjH" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/2S8ZCrV.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 3 - Morning Star Chronicles Cover" height="300"></a></p>
+
+<hr/>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0O8RT" target="_blank" rel="noopener">Warlock of the Magus World - Arc 4 - Passage of Bloodlines</a></p>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0O8RT" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/HvoQh8B.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 4 - Passage of Bloodlines Cover" height="300"></a></p>
