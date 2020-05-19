@@ -49,3 +49,9 @@ A scientist’s goal is to explore the secrets of the universe, and this is exac
 <p style="text-align: center;"><a href="http://gestyy.com/e0O8RT" target="_blank" rel="noopener">Warlock of the Magus World - Arc 4 - Passage of Bloodlines</a></p>
 
 <p style="text-align: center;"><a href="http://gestyy.com/e0O8RT" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/HvoQh8B.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 4 - Passage of Bloodlines Cover" height="300"></a></p>
+
+<hr/>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0SJVH" target="_blank" rel="noopener">Warlock of the Magus World - Arc 5 - World of Gods</a></p>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0SJVH" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/83xtNPc.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 5 - World of Gods Cover" height="300"></a></p>
