@@ -14,7 +14,7 @@ description: Warlock of the Magus World ePub
 
 <b>Translation Status:</b> 1200 / 1200 Chapters (Completed)
 
-<b>ePub Status:</b> 786 / 1498 Chapters
+<b>ePub Status:</b> 1043 / 1498 Chapters
 
 <b>Description:</b> What happens when a scientist from a futuristic world reincarnates in a World of Magic and Knights?
 
