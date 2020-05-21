@@ -14,7 +14,7 @@ description: Warlock of the Magus World ePub
 
 <b>Translation Status:</b> 1200 / 1200 Chapters (Completed)
 
-<b>ePub Status:</b> 1043 / 1498 Chapters
+<b>ePub Status:</b> 1200 / 1200 Chapters (Completed)
 
 <b>Description:</b> What happens when a scientist from a futuristic world reincarnates in a World of Magic and Knights?
 
@@ -55,3 +55,9 @@ A scientist’s goal is to explore the secrets of the universe, and this is exac
 <p style="text-align: center;"><a href="http://gestyy.com/e0SJVH" target="_blank" rel="noopener">Warlock of the Magus World - Arc 5 - World of Gods</a></p>
 
 <p style="text-align: center;"><a href="http://gestyy.com/e0SJVH" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/83xtNPc.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 5 - World of Gods Cover" height="300"></a></p>
+
+<hr/>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0GApn" target="_blank" rel="noopener">Warlock of the Magus World - Arc 6 - Final War</a></p>
+
+<p style="text-align: center;"><a href="http://gestyy.com/e0GApn" target="_blank" rel="noopener"><img data-src="https://i.imgur.com/kPWaHm8.jpg" class="lazyload" alt="Warlock of the Magus World - Arc 6 - Final War Cover" height="300"></a></p>
