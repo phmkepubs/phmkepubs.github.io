@@ -1,7 +1,7 @@
 ---
 layout: novel
 title: Warlock of the Magus World
-date: 2020-04-30 22:00:00 +1000
+date: 2020-05-21 21:00:00 +1000
 permalink: "../warlock-of-the-magus-world"
 cover-image: /images/warlock-of-the-magus-world-cover.jpg
 associated-names: Vu Giới Thuật Sĩ, WMW, Wujie Shushi, 巫界术士
