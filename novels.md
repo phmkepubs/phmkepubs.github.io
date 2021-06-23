@@ -20,6 +20,8 @@ This is an alphabetical list of all the novels that have ePubs on this website, 
 
 - [About the Reckless Girl Who Kept Challenging a Reborn Man Like Me](/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me)
 
+- [Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi](/hokuou-kizoku-to-moukinzuma-no-yukiguni-karigurashi)
+
 ## Korean
 
 - [Everyone Else is a Returnee](/everyone-else-is-a-returnee)
