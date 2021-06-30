@@ -14,6 +14,8 @@ This is an alphabetical list of all the novels that have ePubs on this website, 
 
 - [Release that Witch](/release-that-witch)
 
+- [The Experimental Log of the Crazy Lich](/the-experimental-log-of-the-crazy-lich)
+
 - [Warlock of the Magus World](/warlock-of-the-magus-world)
 
 ## Japanese
