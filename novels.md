@@ -28,6 +28,8 @@ This is an alphabetical list of all the novels that have ePubs on this website, 
 
 - [A Monster Who Levels Up](/a-monster-who-levels-up)
 
+- [Breakers](/breakers)
+
 - [Everyone Else is a Returnee](/everyone-else-is-a-returnee)
 
 - [The Second Coming of Gluttony](/the-second-coming-of-gluttony)
