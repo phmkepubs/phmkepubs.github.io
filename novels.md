@@ -10,6 +10,8 @@ This is an alphabetical list of all the novels that have ePubs on this website, 
 
 ## Chinese
 
+- [Bringing the Nation’s Husband Home](/bringing-the-nations-husband-home)
+
 - [I Shall Seal the Heavens](/i-shall-seal-the-heavens)
 
 - [Release that Witch](/release-that-witch)
